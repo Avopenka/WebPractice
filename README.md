@@ -1,2 +1,3 @@
 # WebPractice
-Practicing HTML, CSS, Java
+Practicing HTML, CSS, Java  
+Like this?
