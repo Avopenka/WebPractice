@@ -1,0 +1,32 @@
+@font-face {
+    font-family: k2d-regular;
+    src: url('fonts/K2D-Regular.ttf');
+}
+
+@font-face {
+    font-family: k2d-italic;
+    src: url('fonts/K2D-Italic.ttf');
+}
+
+body {
+    font-family: k2d-regular;
+    background-color: #000000;
+    color: #D4AF37;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50pt;
+    font-style: italic;
+    vertical-align: middle;
+    color: #D4AF37;
+    clear: both;
+}
+
+footer {    
+    padding-top: 20px;
+    text-align: center;
+    font-size: 10pt;   
+    font-style: italic;
+}
